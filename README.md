@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Next.Js**    **and**    **React.Js**
 
-- 🌱 I’m currently learning **Frontend System Design**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
