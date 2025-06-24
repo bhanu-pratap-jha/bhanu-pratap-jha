@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Next.Js**    **and**    **React.Js**
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Frontend System Design**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Web Development(MERN) and Maths**
+- 💬 Ask me about **MERN and Maths**
 
 - 📫 How to reach me **mr.bhanupratapjha@gmail.com**
 
