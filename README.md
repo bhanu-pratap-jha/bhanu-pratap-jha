@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 
 - 💬 Ask me about **MERN and Maths**
 
