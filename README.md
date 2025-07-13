@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhanu Pratap</h1>
+<h1 align="center">Hi 👋, I'm Bhanu Pratap Jha</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanu-pratap-jha&label=Profile%20views&color=0e75b6&style=flat" alt="bhanu-pratap-jha" /> </p>
